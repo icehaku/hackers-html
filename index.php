@@ -29,8 +29,8 @@
       <main role="main" class="inner cover">
         <h1 class="cover-heading">Cover your page.</h1>
         <p class="lead">Aqui vai ser uma paradas muito pitorescas mesmo. simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-        <p class="lead">
-          <h1>Só pra adicionar qualquer coisa</h1>
+        <h1 class="cover-heading">COVER MINHA PIRO.</h1>
+        <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
           <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
         </p>
       </main>
